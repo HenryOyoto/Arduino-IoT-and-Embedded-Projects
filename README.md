@@ -153,46 +153,6 @@ See the PCB-Design-Projects repository for the board used in this project.
 
 ---
 
-### [Placeholder] Project 4 — Title
-
-One or two sentences describing what this project does, the problem it solves, and the
-overall approach.
-
-**What it does**
-
-- Bullet points of the main behaviours
-- What the user sees or does
-- What the system records or controls
-
-**Hardware used**
-
-- Microcontroller
-- Sensors and actuators
-- Any custom PCB
-
-**Software and services**
-
-- Development environment
-- Libraries
-- Any external APIs or services
-
-**Status**
-
-Add the current state — idea, in progress, prototype, working, or complete.
-
-**Folder contents**
-
-- `src/`
-- `docs/`
-- `images/`
-- `README.md`
-
-**Related PCB**
-
-Link or remove this line if it does not apply.
-
----
-
 ## Repository structure
 Arduino-IoT-and-Embedded-Projects/
 ├── biometrics-school-feeding/
