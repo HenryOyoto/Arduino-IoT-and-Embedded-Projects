@@ -153,27 +153,6 @@ See the PCB-Design-Projects repository for the board used in this project.
 
 ---
 
-## Repository structure
-Arduino-IoT-and-Embedded-Projects/
-├── biometrics-school-feeding/
-│ ├── src/
-│ ├── docs/
-│ ├── images/
-│ └── README.md
-├── autonomous-4-wheel-robot/
-│ ├── src/
-│ ├── docs/
-│ ├── images/
-│ └── README.md
-├── smart-parking-mpesa/
-│ ├── src/
-│ ├── web/
-│ ├── docs/
-│ ├── images/
-│ └── README.md
-├── project-4-placeholder/
-
-
 ## Getting started
 
 1. Clone the repository:
