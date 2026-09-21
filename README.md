@@ -59,7 +59,7 @@ Push responses. PCB fabricated and populated.
 
 **Related PCB**
 
-See the PCB-Design-Projects repository for the board used in this project.
+See the **PCB-Design-Projects** repository for the board used in this project.
 
 ---
 
@@ -101,7 +101,7 @@ Working prototype — drives, senses, and avoids obstacles as intended.
 
 **Related PCB**
 
-See the PCB-Design-Projects repository for the board used in this project.
+See the **PCB-Design-Projects** repository for the board used in this project.
 
 ---
 
@@ -115,7 +115,7 @@ dashboard for monitoring the parking area in real time.
 
 - Detects occupancy of each parking lot using infrared sensors
 - Opens and closes the entry and exit gates with servo motors
-- Bills users for parking time through M-Pesa Daraja API
+- Bills users for parking time through the M-Pesa Daraja API
 - Sends session data to a web application for live monitoring
 - Shows available and occupied lots on the dashboard
 
@@ -137,7 +137,7 @@ dashboard for monitoring the parking area in real time.
 **Status**
 
 Working prototype — infrared detection, gate control, M-Pesa checkout, and dashboard
-display all tested together.
+Display all tested together.
 
 **Folder contents**
 
@@ -149,7 +149,7 @@ display all tested together.
 
 **Related PCB**
 
-See the PCB-Design-Projects repository for the board used in this project.
+See the **PCB-Design-Projects** repository for the board used in this project.
 
 ---
 
@@ -193,4 +193,4 @@ Python programming and technical documentation.
 ## License
 
 Unless a project states otherwise, the code in this repository is provided under the
-MIT License. You are free to use, modify and share it, with attribution.
+MIT License. You are free to use, modify, and share it, with attribution.
